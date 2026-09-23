@@ -1,9 +1,4 @@
 import os
-
-# Keep all Hugging Face/Qwen model cache on D:
-os.environ["HF_HOME"] = r"D:\HuggingFaceCache"
-os.environ["HF_HUB_CACHE"] = r"D:\HuggingFaceCache\hub"
-
 import gc
 import torch
 import soundfile as sf
@@ -11,110 +6,102 @@ import soundfile as sf
 from qwen_tts import Qwen3TTSModel
 
 
-MODEL_ID = r"D:\HuggingFaceCache\hub\models--Qwen--Qwen3-TTS-12Hz-1.7B-VoiceDesign\snapshots\5ecdb67327fd37bb2e042aab12ff7391903235d3"
+MODEL_PATH = (
+    r"D:\HuggingFaceCache\hub\models--Qwen--Qwen3-TTS-12Hz-0.6B-Base"
+    r"\snapshots\5d83992436eae1d760afd27aff78a71d676296fc"
+)
 
 PROJECT_ROOT = os.path.dirname(
     os.path.dirname(os.path.abspath(__file__))
 )
 
-OUTPUT_DIR = os.path.join(
+REF_AUDIO = os.path.join(
     PROJECT_ROOT,
     "models",
     "curly_voice",
+    "curly_reference.wav",
 )
 
-OUTPUT_WAV = os.path.join(
+OUTPUT_DIR = os.path.join(
+    PROJECT_ROOT,
+    "audio",
+)
+
+OUTPUT_AUDIO = os.path.join(
     OUTPUT_DIR,
-    "curly_reference_v2.wav",
-)
-
-OFFLOAD_DIR = r"D:\QwenOffload"
-
-
-REFERENCE_TEXT = (
-    "Hi, I'm Curly, created for ICAR-NRCY Centre of Excellence at ADBU. "
-    "I can help you find information, explain a topic, "
-    "or guide you through a task. "
-    "Tell me what you need, and we'll take it one step at a time."
+    "curly_qwen_test.wav",
 )
 
 
-VOICE_DESCRIPTION = (
-    "A natural human female voice with a youthful young-teen to late-teen "
-    "impression, around 11 to 13years old. "
-    "She speaks natural Indian English with a subtle Indian accent. "
-    "The voice should sound like a real young Indian woman speaking naturally "
-    "in a quiet indoor conversation or recording studio. "
-    "Warm, clear, soft and youthful, but grounded and realistic. "
-    "Use a natural female pitch with a comfortable mid-to-slightly-high range. "
-    "Keep the pitch stable and realistic rather than exaggerated. "
-    "The delivery should be conversational, relaxed, confident and articulate. "
-    "She should sound intelligent, approachable and professional, "
-    "with gentle friendliness and a small amount of natural energy. "
-    "Use realistic human breathing, natural pauses and subtle intonation. "
-    "Keep emotional expression restrained and believable. "
-    "The overall impression should be an actual human young woman, "
-    "not a fictional character. "
-    "Do not make the voice cute in a childish way. "
-    "Do not make it sound like anime, animation, gaming, dubbing, "
-    "cartoon, mascot, fantasy character, virtual idol or exaggerated AI voice. "
-    "Avoid exaggerated pitch changes, squeaky tones, theatrical acting, "
-    "baby-like speech, childish pronunciation, sing-song delivery, "
-    "overly energetic delivery, robotic delivery, monotone speech, "
-    "breathy ASMR style, or dramatic character performance."
+# EXACT transcript of curly_reference.wav
+REF_TEXT = (
+    "Hey! I'm Curly. I'm here to help you with your questions "
+    "about the ICAR National Research Centre on Yak. Let's get started!"
+)
+
+TEST_TEXT = (
+    "Hi! I'm Curly. How can I help you today? "
+    "I can explain information clearly and guide you through your work."
 )
 
 
 def main():
     print("=" * 65)
-    print("CURly AI - Qwen3-TTS Human-Centric VoiceDesign")
+    print("CURly AI - Qwen3-TTS 0.6B Voice Clone")
     print("=" * 65)
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    os.makedirs(OFFLOAD_DIR, exist_ok=True)
 
-    print("\n[1/4] Checking environment...")
-    print("Python:", os.sys.version.split()[0])
-    print("Torch:", torch.__version__)
-    print("CUDA available:", torch.cuda.is_available())
+    if not os.path.isdir(MODEL_PATH):
+        raise FileNotFoundError(
+            f"\n0.6B model not found:\n{MODEL_PATH}"
+        )
 
-    print("\n[2/4] Loading Qwen VoiceDesign model...")
-    print("Model:", MODEL_ID)
-    print("Offload:", OFFLOAD_DIR)
+    if not os.path.isfile(REF_AUDIO):
+        raise FileNotFoundError(
+            f"\nCurly reference audio not found:\n{REF_AUDIO}"
+        )
+
+    print("\n[1/3] Loading Qwen 0.6B Base model...")
+    print("Model:", MODEL_PATH)
+    print("Device: CPU")
 
     model = Qwen3TTSModel.from_pretrained(
-        MODEL_ID,
-        device_map="auto",
+        MODEL_PATH,
+        device_map="cpu",
         dtype=torch.bfloat16,
-        low_cpu_mem_usage=True,
-        offload_folder=OFFLOAD_DIR,
         attn_implementation="sdpa",
+        low_cpu_mem_usage=True,
     )
 
-    print("\nModel loaded successfully.")
+    print("Model loaded successfully.")
 
-    print("\n[3/4] Generating human-centric Curly reference voice...")
+    print("\n[2/3] Generating speech using Curly reference...")
+    print("Reference transcript:")
+    print(REF_TEXT)
+    print("\nTest text:")
+    print(TEST_TEXT)
 
-    print("\nReference text:")
-    print(REFERENCE_TEXT)
-
-    print("\nVoice description:")
-    print(VOICE_DESCRIPTION)
-
-    wavs, sample_rate = model.generate_voice_design(
-        text=REFERENCE_TEXT,
+    wavs, sample_rate = model.generate_voice_clone(
+        text=TEST_TEXT,
         language="English",
-        instruct=VOICE_DESCRIPTION,
-        max_new_tokens=2048,
+        ref_audio=REF_AUDIO,
+        ref_text=REF_TEXT,
+        x_vector_only_mode=False,
+        do_sample=True,
+        temperature=0.7,
+        top_p=0.8,
     )
 
     if not wavs:
-        raise RuntimeError("Qwen returned no audio.")
+        raise RuntimeError(
+            "Qwen returned no audio."
+        )
 
-    print("\n[4/4] Saving audio...")
+    print("\n[3/3] Saving generated audio...")
 
     sf.write(
-        OUTPUT_WAV,
+        OUTPUT_AUDIO,
         wavs[0],
         sample_rate,
     )
@@ -124,14 +111,11 @@ def main():
 
     gc.collect()
 
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
-
     print("\n" + "=" * 65)
-    print("SUCCESS — HUMAN-CENTRIC CURLY VOICE CREATED")
+    print("SUCCESS")
     print("=" * 65)
-    print("File:")
-    print(OUTPUT_WAV)
+    print("Curly test audio:")
+    print(OUTPUT_AUDIO)
     print("Sample rate:", sample_rate)
     print("=" * 65)
 
