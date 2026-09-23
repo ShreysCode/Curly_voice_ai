@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+date: Thu, 20 Aug 2026 09:19:37 GMT
+server: uvicorn
+x-curly-session-id: 70b90a3a-5e8f-4246-b0bb-50fef73cb06e
+x-curly-transcript: Can you verify me?
+x-curly-type: command
+x-curly-command: FACE_AUTH
+x-curly-state: AUTHENTICATING
+content-type: audio/mpeg
+accept-ranges: bytes
+content-disposition: attachment; filename="d89ff4df0b5f4fb19b5c6b2a895cb22f.mp3"
+content-length: 20448
+last-modified: Thu, 20 Aug 2026 09:19:41 GMT
+etag: "3247c3eb1fea4e50922b8b68d1211565"
+x-request-id: 9083b35a-884a-4dca-ba09-42588cd5ba8f
+

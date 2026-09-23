@@ -1,0 +1,1510 @@
+{
+  "organization": {
+    "name": "ICAR–National Research Centre on Yak",
+    "abbreviations": {
+      "ICAR": "Indian Council of Agricultural Research",
+      "DARE": "Department of Agricultural Research and Education",
+      "NRCY": "National Research Centre on Yak",
+      "NRC on Yak": "National Research Centre on Yak",
+      "FTAI": "Fixed-Time Artificial Insemination",
+      "IoT": "Internet of Things",
+      "FMD": "Foot-and-Mouth Disease",
+      "IBR": "Infectious Bovine Rhinotracheitis",
+      "TMR": "Total Mixed Ration",
+      "GI": "Geographical Indication",
+      "ADBU": "Assam Don Bosco University"
+    },
+    "curly_development": {
+    "developer": "Assam Don Bosco University technical team",
+    "collaboration": "ICAR–National Research Centre on Yak",
+    "answer": "Curly was developed by the Assam Don Bosco University technical team in collaboration with ICAR–National Research Centre on Yak."
+    },
+    "parent_organisation": "Indian Council of Agricultural Research (ICAR)",
+    "broad_division": "Animal Science",
+    "location": "Dirang, West Kameng District, Arunachal Pradesh, India",
+    "pin": "790101",
+    "primary_research_subject": "Yak",
+    "current_director": "Dr. Mihir Sarkar",
+    "director_email": "director.nrcy@icar.gov.in",
+    "telephone_numbers": [
+      "03780-242259",
+      "03780-242273",
+      "03780-242205",
+      "6398414008",
+      "9756905650"
+    ],
+    "description": "ICAR–NRCY is a specialised research institute under ICAR, Government of India, focused on yak research, technology development, conservation, breeding, health, nutrition, production, product value addition and extension.",
+    "icar": {
+      "full_name": "Indian Council of Agricultural Research",
+      "description": "India's apex national organisation for coordinating and promoting agricultural research, education and extension.",
+      "under": "Department of Agricultural Research and Education (DARE), Ministry of Agriculture and Farmers Welfare, Government of India",
+      "is_university": false
+    },
+    "what_nrcy_does": [
+      "Yak genetic resources",
+      "Yak germplasm conservation",
+      "Yak breeding",
+      "Genetic improvement",
+      "Reproductive management",
+      "Artificial insemination",
+      "Yak nutrition",
+      "Feed and fodder management",
+      "Yak health and disease management",
+      "Yak production and productivity",
+      "Yak husbandry",
+      "Yak milk and milk products",
+      "Yak meat",
+      "Yak fibre and hair",
+      "Value addition of yak products",
+      "Yak–cattle crossbreeding",
+      "Conservation of yak genetic resources",
+      "Livelihood improvement of yak-rearing communities",
+      "Sustainable yak farming",
+      "Technology transfer and farmer training"
+    ],
+    "official_mandate": [
+      "Identification, conservation, characterisation and evaluation of yak germplasm",
+      "Improvement of yak for draught and milk production",
+      "Establishment and maintenance of nucleus yak herds",
+      "Development of strategies for conservation of yak genetic resources",
+      "Research on in-situ and ex-situ conservation of yak genetic resources",
+      "Research on yak production, productivity, health and product quality",
+      "Research on yak crossbreds traditionally maintained in mid-altitude areas",
+      "Development of scientific strategies for yak–cattle crossbreeding",
+      "Development and dissemination of technologies for sustainable yak husbandry"
+    ],
+    "major_research_areas": {
+      "genetics_and_breeding": [
+        "Genetic characterisation",
+        "Germplasm conservation",
+        "Genetic improvement",
+        "Selective breeding",
+        "Nucleus herd development",
+        "Reproductive technologies",
+        "Artificial insemination",
+        "Frozen semen technology",
+        "Yak–cattle crossbreeding"
+      ],
+      "reproductive_management": [
+        "Estrus synchronisation",
+        "Artificial insemination",
+        "Fixed-Time Artificial Insemination (FTAI)",
+        "Frozen semen",
+        "Reproductive efficiency",
+        "Genetic improvement"
+      ],
+      "nutrition": [
+        "Total Mixed Ration (TMR)",
+        "Area-specific mineral mixtures",
+        "Highland forage development",
+        "Fodder conservation",
+        "Silage",
+        "Complete Feed Blocks",
+        "Cold-adapted highland pastures",
+        "Winter feed management"
+      ],
+      "health": [
+        "Disease diagnosis",
+        "Disease surveillance",
+        "Disease prevention",
+        "Disease control",
+        "Veterinary health management",
+        "Health-related technologies"
+      ],
+      "products_and_value_addition": [
+        "Yak milk",
+        "Yak milk products",
+        "Butter",
+        "Ghee",
+        "Curd",
+        "Chhurpi",
+        "Yak cheese",
+        "Yak meat",
+        "Yak fibre",
+        "Yak hair",
+        "Fibre-based products",
+        "Product processing",
+        "Value addition",
+        "Entrepreneurship opportunities"
+      ]
+    },
+    "farm_and_facilities": {
+      "experimental_yak_farm": "Nyukmadung",
+      "distance_from_dirang_km": 31,
+      "elevation_m": 2750,
+      "purpose": [
+        "Yak management research",
+        "Yak nutrition research",
+        "Yak breeding research",
+        "Pasture development",
+        "Related technologies"
+      ],
+      "important_distinction": "NRCY headquarters is at Dirang; the experimental yak farm is at Nyukmadung."
+    },
+    "recent_achievements": {
+      "ftai_2026": {
+        "description": "Demonstration of estrus synchronisation and Fixed-Time Artificial Insemination (FTAI) in yaks under field conditions in Sikkim.",
+        "location": "Gnathang Valley, East Sikkim",
+        "female_yaks_enrolled": 25,
+        "conceptions_obtained": 14,
+        "reported_conception_rate_percent": 56,
+        "healthy_calves_born": 10,
+        "purpose": [
+          "Improve reproductive management",
+          "Accelerate genetic improvement",
+          "Support sustainable yak production"
+        ]
+      },
+      "ai_iot_2026": {
+        "description": "IoT-based smart system developed with Assam Don Bosco University for yak health monitoring, stress prediction, geo-fencing, real-time monitoring and precision livestock management.",
+        "collaboration": "Assam Don Bosco University (ADBU), Guwahati",
+        "technology_areas": [
+          "Artificial Intelligence",
+          "Internet of Things",
+          "Embedded systems",
+          "Technology development",
+          "Precision livestock management"
+        ],
+        "nrcy_team": [
+          "Dr. Mokhtar Hussain — Senior Scientist (AR&G)",
+          "Dr. Vijay Paul — Principal Scientist (VPY)",
+          "Dr. Dinamani Medhi — Principal Scientist (AN)",
+          "Dr. Mihir Sarkar — Director"
+        ],
+        "adbu_team": [
+          "Dr. Rupesh Mandal — Assistant Professor",
+          "Dr. Nupur Choudhury — Assistant Professor",
+          "Dr. Gitu Das — Assistant Professor",
+          "Dr. Jyoti Kumar Barman — Assistant Professor"
+        ]
+      }
+    },
+    "fibre_and_entrepreneurship": {
+      "activities": [
+        "Yak fibre processing",
+        "Yak hair utilisation",
+        "Fibre-based products",
+        "Chawar/chamar making",
+        "Textile products",
+        "Entrepreneurship",
+        "Income generation for yak-rearing communities"
+      ],
+      "2024_2025_short_course": "Yak-hair-based fabric making",
+      "possible_products": [
+        "Socks",
+        "Gloves",
+        "Sweaters",
+        "Mufflers",
+        "Caps",
+        "Bags",
+        "Mats",
+        "Other fibre-based products"
+      ],
+      "caution": "Do not claim every listed product is commercially manufactured by NRCY; distinguish research, demonstration, training and commercial production."
+    },
+    "yak_churpi": {
+      "description": "Churpi is a traditional yak milk product associated with the Himalayan region.",
+      "institutional_note": "Arunachal Pradesh Yak Churpi has GI recognition, and NRCY has contributed to its promotion and value addition."
+    },
+    "farmer_and_community_outreach": [
+      "Farmer training",
+      "Scientific yak husbandry programmes",
+      "Veterinary awareness",
+      "Breeding and reproductive management training",
+      "Feed and fodder management",
+      "Yak fibre processing",
+      "Value addition",
+      "Technology demonstrations",
+      "Capacity building",
+      "Livelihood development"
+    ],
+    "geographic_scope": [
+      "Arunachal Pradesh",
+      "Sikkim",
+      "Ladakh",
+      "Other Himalayan yak-rearing areas of India"
+    ],
+    "relationships": {
+      "ICAR": "Parent national organisation",
+      "NRCY": "Specialised ICAR institute focused on yak",
+      "ADBU": [
+        "Artificial Intelligence",
+        "Internet of Things",
+        "Embedded Systems",
+        "Smart Yak Health Monitoring",
+        "Stress Prediction",
+        "Geo-fencing"
+      ],
+      "Government_of_Sikkim_department": "Department of Animal Husbandry, Livestock, Fisheries and Veterinary Services"
+    },
+    "important_people": {
+      "Dr. Mihir Sarkar": {
+        "role": "Director, ICAR–National Research Centre on Yak, Dirang",
+        "organization": "ICAR–National Research Centre on Yak",
+        "current_director": true,
+        "current_as_of_source": "2026 ICAR Telephone Directory",
+        "aliases": [
+          "Dr. Mihir Sarkar",
+          "Mihir Sarkar",
+          "Dr Mihir Sarkar",
+          "Mihir Sircar",
+          "Mihir Sarker",
+          "Dr Mehir Sarkar"
+        ],
+        "canonical_short_answer": "Dr. Mihir Sarkar is the Director of ICAR–National Research Centre on Yak.",
+        "canonical_role_answer": "Dr. Mihir Sarkar is the Director of ICAR–National Research Centre on Yak, Dirang.",
+        "do_not_confuse_with": [
+          "Dr. P. Chakravarty — Immediate Past Director",
+          "Dr. Rupesh Mandal — Assistant Professor at Assam Don Bosco University and listed as the nodal officer/in-charge of the ADBU Centre of Excellence."
+        ]
+      },
+      "Dr. P. Chakravarty": {
+        "role": "Immediate Past Director, ICAR–NRCY",
+        "current_director": false,
+        "aliases": [
+          "Dr. P. Chakravarty",
+          "Dr P Chakravarty",
+          "P. Chakravarty",
+          "Prithviraj Chakravarty",
+          "Dr. Prithviraj Chakravarty"
+        ]
+      },
+      "nrcy_ai_iot_scientists": [
+        "Dr. Mokhtar Hussain — Senior Scientist (AR&G)",
+        "Dr. Vijay Paul — Principal Scientist (VPY)",
+        "Dr. Dinamani Medhi — Principal Scientist (AN)",
+        "Dr. Mihir Sarkar — Director"
+      ],
+      "Dr. Rupesh Mandal": {
+        "role": "Assistant Professor, Assam Don Bosco University",
+        "organization": "Assam Don Bosco University",
+        "lab_roles": [
+          "Nodal Officer, ICAR-NRCY Centre of Excellence, ADBU",
+          "In-charge, ICAR-NRCY Centre of Excellence, ADBU"
+        ],
+        "aliases": [
+          "Dr. Rupesh Mandal",
+          "Dr Rupesh Mandal",
+          "Rupesh Mandal"
+        ],
+        "canonical_short_answer": "Dr. Rupesh Mandal is an Assistant Professor at Assam Don Bosco University and is listed as the nodal officer and in-charge of the ICAR-NRCY Centre of Excellence at ADBU.",
+        "do_not_confuse_with": [
+          "Dr. Mihir Sarkar — Director of ICAR–National Research Centre on Yak"
+        ]
+      },
+      "Dr. Mokhtar Hussain": {
+        "role": "Senior Scientist (AR&G), ICAR–National Research Centre on Yak",
+        "organization": "ICAR–National Research Centre on Yak",
+        "aliases": [
+          "Dr. Mokhtar Hussain",
+          "Dr Mokhtar Hussain",
+          "Mokhtar Hussain",
+          "Dr. Moukhtar Hussain",
+          "Dr Moukhtar Hussain",
+          "Moukhtar Hussain"
+        ],
+        "context": "Listed on the NRCY team for the 2026 IoT-based smart yak health monitoring project with Assam Don Bosco University.",
+        "canonical_short_answer": "Dr. Mokhtar Hussain is Senior Scientist (AR&G) at ICAR–National Research Centre on Yak.",
+        "canonical_role_answer": "Dr. Mokhtar Hussain is Senior Scientist (AR&G) at ICAR–National Research Centre on Yak."
+      },
+      "Dr. Vijay Paul": {
+        "role": "Principal Scientist (VPY), ICAR–National Research Centre on Yak",
+        "organization": "ICAR–National Research Centre on Yak",
+        "aliases": [
+          "Dr. Vijay Paul",
+          "Dr Vijay Paul",
+          "Vijay Paul",
+          "Vijay Pal",
+          "Bijay Paul"
+        ],
+        "context": "Listed on the NRCY team for the 2026 IoT-based smart yak health monitoring project with Assam Don Bosco University.",
+        "canonical_short_answer": "Dr. Vijay Paul is Principal Scientist (VPY) at ICAR–National Research Centre on Yak.",
+        "canonical_role_answer": "Dr. Vijay Paul is Principal Scientist (VPY) at ICAR–National Research Centre on Yak."
+      },
+      "Dr. Dinamani Medhi": {
+        "role": "Principal Scientist (AN), ICAR–National Research Centre on Yak",
+        "organization": "ICAR–National Research Centre on Yak",
+        "aliases": [
+          "Dr. Dinamani Medhi",
+          "Dr Dinamani Medhi",
+          "Dinamani Medhi",
+          "Dinamani Medhee",
+          "Dinamani Madhi",
+          "Dinamani Medi"
+        ],
+        "context": "Listed on the NRCY team for the 2026 IoT-based smart yak health monitoring project with Assam Don Bosco University.",
+        "canonical_short_answer": "Dr. Dinamani Medhi is Principal Scientist (AN) at ICAR–National Research Centre on Yak.",
+        "canonical_role_answer": "Dr. Dinamani Medhi is Principal Scientist (AN) at ICAR–National Research Centre on Yak."
+      },
+      "Dr. Nupur Choudhury": {
+        "role": "Assistant Professor, Assam Don Bosco University",
+        "organization": "Assam Don Bosco University",
+        "aliases": [
+          "Dr. Nupur Choudhury",
+          "Dr Nupur Choudhury",
+          "Nupur Choudhury",
+          "Nupur Chowdhury",
+          "Nupur Chaudhury",
+          "Nupur Choudhri",
+          "Nupur Choudhuri"
+        ],
+        "context": "Listed on the ADBU team for the 2026 IoT-based smart yak health monitoring project with ICAR–NRCY.",
+        "canonical_short_answer": "Dr. Nupur Choudhury is Assistant Professor at Assam Don Bosco University.",
+        "canonical_role_answer": "Dr. Nupur Choudhury is Assistant Professor at Assam Don Bosco University."
+      },
+      "Dr. Gitu Das": {
+        "role": "Assistant Professor, Assam Don Bosco University",
+        "organization": "Assam Don Bosco University",
+        "aliases": [
+          "Dr. Gitu Das",
+          "Dr Gitu Das",
+          "Gitu Das",
+          "Gitu Dass"
+        ],
+        "context": "Listed on the ADBU team for the 2026 IoT-based smart yak health monitoring project with ICAR–NRCY.",
+        "canonical_short_answer": "Dr. Gitu Das is Assistant Professor at Assam Don Bosco University.",
+        "canonical_role_answer": "Dr. Gitu Das is Assistant Professor at Assam Don Bosco University."
+      },
+      "Dr. Jyoti Kumar Barman": {
+        "role": "Assistant Professor, Assam Don Bosco University",
+        "organization": "Assam Don Bosco University",
+        "aliases": [
+          "Dr. Jyoti Kumar Barman",
+          "Dr Jyoti Kumar Barman",
+          "Jyoti Kumar Barman",
+          "Jyoti Barman",
+          "Jyoti Kumar Burman",
+          "Jyoti Barman Sir"
+        ],
+        "context": "Listed on the ADBU team for the 2026 IoT-based smart yak health monitoring project with ICAR–NRCY.",
+        "canonical_short_answer": "Dr. Jyoti Kumar Barman is Assistant Professor at Assam Don Bosco University.",
+        "canonical_role_answer": "Dr. Jyoti Kumar Barman is Assistant Professor at Assam Don Bosco University."
+      }
+    },
+    "voice_aliases": [
+      "NRCY",
+      "NRC Yak",
+      "NRC on Yak",
+      "National Research Centre on Yak",
+      "National Research Center on Yak",
+      "ICAR Yak Centre",
+      "ICAR NRC Yak",
+      "ICAR NRCY",
+      "Yak Research Centre",
+      "Dirang Yak Centre"
+    ],
+    "people_name_variants": {
+      "Dr. Mihir Sarkar": [
+        "Mihir Sarkar",
+        "Dr Mihir Sarkar",
+        "Mihir Sircar",
+        "Mihir Sarker",
+        "Dr Mehir Sarkar"
+      ],
+      "Dr. Rupesh Mandal": [
+        "Rupesh Mandal",
+        "Dr Rupesh Mandal"
+      ],
+      "Dr. P. Chakravarty": [
+        "P. Chakravarty",
+        "Prithviraj Chakravarty",
+        "Dr Prithviraj Chakravarty"
+      ]
+    },
+    "research_publication_context": {
+      "curated_on": "2026-09-19",
+      "purpose": "Research-aware institutional context for Curly. Keep concise enough for normal prompt injection; use the source URLs for deeper retrieval or future updates.",
+      "official_publication_categories": [
+        "Research Articles",
+        "Lead Papers",
+        "Other Publications",
+        "Dissertations on Yakology"
+      ],
+      "research_domains": {
+        "genetics_and_genomics": [
+          "germplasm conservation",
+          "genetic diversity",
+          "breed characterisation",
+          "molecular markers",
+          "PCR-RFLP",
+          "RAPD",
+          "candidate genes",
+          "economic-trait markers",
+          "microsatellite/genetic profiling",
+          "whole-genome research",
+          "mitogenomics",
+          "selection signatures",
+          "transcriptomics"
+        ],
+        "reproductive_science": [
+          "reproductive physiology",
+          "estrus synchronisation",
+          "ovulation",
+          "artificial insemination",
+          "fixed-time artificial insemination (FTAI)",
+          "semen quality",
+          "semen cryopreservation",
+          "embryo transfer",
+          "in-vitro embryo production",
+          "fertility biomarkers"
+        ],
+        "nutrition_and_feed": [
+          "yak nutrition",
+          "feed evaluation",
+          "complete feed blocks",
+          "silage",
+          "tree fodder",
+          "mineral supplementation",
+          "winter feed scarcity",
+          "feeding planes",
+          "rumen/nutrient utilisation"
+        ],
+        "animal_health": [
+          "disease surveillance",
+          "disease diagnosis",
+          "FMD",
+          "brucellosis",
+          "IBR",
+          "bacterial respiratory infections",
+          "parasitic disease",
+          "immunology",
+          "disease-resistance genetics"
+        ],
+        "physiology_and_high_altitude_adaptation": [
+          "stress physiology",
+          "thermo-adaptability",
+          "heat shock proteins/HSP70",
+          "high-altitude adaptation",
+          "hypoxia-related biology",
+          "metabolic and reproductive responses"
+        ],
+        "production_management_and_sustainability": [
+          "yak husbandry",
+          "pastoral systems",
+          "transhumance",
+          "pack animal performance",
+          "climate change",
+          "sustainable yak production",
+          "livelihoods of yak-rearing communities"
+        ],
+        "products_and_value_addition": [
+          "yak milk",
+          "paneer",
+          "ghee",
+          "cheese",
+          "churpi/chhurpi",
+          "yak meat",
+          "yak fibre",
+          "yak hair",
+          "processing technology",
+          "value addition",
+          "entrepreneurship"
+        ],
+        "digital_and_emerging_technology": [
+          "Artificial Intelligence",
+          "Internet of Things",
+          "embedded systems",
+          "precision livestock management",
+          "real-time health monitoring",
+          "stress prediction",
+          "geo-fencing"
+        ]
+      },
+      "research_narrative": [
+        "Foundational yak research in husbandry, nutrition, reproduction, health and conservation.",
+        "Molecular and genetic research using markers, candidate genes and population characterisation.",
+        "Genomic research covering selection signatures, whole-genome variation, mitogenomics and transcriptomics.",
+        "Reproductive biotechnology including artificial insemination, semen cryopreservation, embryo transfer and FTAI.",
+        "Applied sustainability research spanning fodder, climate resilience, pastoral livelihoods and value addition.",
+        "Emerging digital research through AI, IoT, embedded systems, health monitoring, stress prediction and geo-fencing."
+      ],
+      "publication_notes": {
+        "coverage": "The NRCY Research Articles page is a historical institutional bibliography and contains some broader animal-science papers in addition to yak-focused work. Curly must not describe every listed item as a yak or NRCY-specific study.",
+        "evidence_types": "Distinguish peer-reviewed research articles from lead papers, popular/invited articles, dissertations, project records and institutional achievement pages.",
+        "latest_rule": "For questions asking for the latest/current research, verify against current ICAR announcements and current academic indexing when live retrieval is available."
+      },
+      "representative_publications": [
+        {
+          "year": 2026,
+          "title": "A comprehensive full-length transcriptome atlas across multiple organs of an Indian yak breed-Arunachali",
+          "venue": "Mammalian Genome, 37(1):80",
+          "doi": "10.1007/s00335-026-10251-2",
+          "themes": [
+            "transcriptomics",
+            "high-altitude adaptation",
+            "multi-organ gene expression"
+          ],
+          "note": "PubMed records a PacBio Iso-Seq study across 22 tissues that generated over 200,000 high-quality non-redundant transcripts and identified 4,319 high-confidence lncRNAs; reported enrichment included HIF-1, PI3K-Akt, AMPK and TGF-beta pathways.",
+          "source": "https://pubmed.ncbi.nlm.nih.gov/42313193/"
+        },
+        {
+          "year": 2022,
+          "title": "Genomic diversity profiling and breed-specific evolutionary signatures of selection in Arunachali Yak",
+          "venue": "Genes, 13, 254",
+          "doi": "10.3390/genes13020254",
+          "themes": [
+            "genomic diversity",
+            "selection signatures",
+            "Arunachali yak"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2022,
+          "title": "Characterization of Arunachali Yak: A Roadmap for Pastoral Sustainability of Yaks in India",
+          "venue": "Sustainability, 14, 12655",
+          "doi": "10.3390/su141912655",
+          "themes": [
+            "breed characterisation",
+            "pastoral systems",
+            "sustainability"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2021,
+          "title": "Body status and blood metabolites profiles during resumption of postpartum ovarian activity in yak (Poephagus grunniens)",
+          "venue": "Reproduction in Domestic Animals",
+          "doi": "10.1111/rda.14002",
+          "themes": [
+            "reproduction",
+            "postpartum ovarian activity",
+            "metabolites"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2021,
+          "title": "Predictive modelling for physicochemical and microbial quality assessment of vacuum-packed yak milk paneer under various storage temperatures",
+          "venue": "Journal of Food Processing and Preservation",
+          "doi": "10.1111/jfpp.16114",
+          "themes": [
+            "yak milk",
+            "paneer",
+            "food quality",
+            "predictive modelling"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2021,
+          "title": "A Comparative Appraisal of Traditional Ghee Derived from the three genotypes (Arunachali Yak, Yak-Cow Hybrid, and Cow) reared under semi-intensive conditions",
+          "venue": "European Journal of Lipid Science and Technology",
+          "doi": "10.1002/ejlt.202100101",
+          "themes": [
+            "yak products",
+            "ghee",
+            "yak-cow hybrid",
+            "value addition"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2019,
+          "title": "Identification and Expression Profiling of MSY (male-specific region of Y chromosome) Genes of Yak for Bull Fertility",
+          "venue": "Journal of Genetics, 98:41",
+          "themes": [
+            "male fertility",
+            "Y chromosome",
+            "molecular genetics"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2019,
+          "title": "Establishing Amelogenin Gene as Sex-Specific Marker in Yak by Genomic Approach",
+          "venue": "Journal of Genetics",
+          "doi": "10.1007/s12041-019-1061-x",
+          "themes": [
+            "sex-specific marker",
+            "genomics",
+            "molecular genetics"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2018,
+          "title": "Impact of time of artificial insemination on conception rate in Indian yak",
+          "venue": "Indian Journal of Animal Reproduction, 39(1):53-54",
+          "themes": [
+            "artificial insemination",
+            "conception rate",
+            "reproduction"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2018,
+          "title": "Effect of different glycerol levels in tris-based extender on quality of frozen yak semen",
+          "venue": "Indian Journal of Animal Sciences, 88(4):428-430",
+          "themes": [
+            "semen cryopreservation",
+            "reproductive biotechnology"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2018,
+          "title": "Diurnal variation and oscillatory patterns in physiological responses and HSP70 profile in heat stressed yaks at high altitude",
+          "venue": "Biological Rhythm Research",
+          "doi": "10.1080/09291016.2018.1424770",
+          "themes": [
+            "HSP70",
+            "stress physiology",
+            "high-altitude adaptation"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2018,
+          "title": "Nutritional status and compensatory growth in yak calves maintained on different plane of nutrition",
+          "venue": "Indian Journal of Animal Sciences, 88(4):506-508",
+          "themes": [
+            "nutrition",
+            "yak calves",
+            "compensatory growth"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2017,
+          "title": "Foot-and-mouth disease virus infection-specific nonstructural protein antibodies detected in populations of mithun, yak and their hybrids maintained in farms and villages of Arunachal Pradesh, India",
+          "venue": "Indian Journal of Animal Sciences, 87(9):1090-1091",
+          "themes": [
+            "FMD",
+            "disease surveillance",
+            "yak hybrids"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2016,
+          "title": "Effects of climate change on yak production at high altitude",
+          "venue": "Indian Journal of Animal Sciences, 86(6):621-626",
+          "themes": [
+            "climate change",
+            "high-altitude production",
+            "sustainability"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2016,
+          "title": "Performances of lactating yaks on silage and complete feed block based feeding regiments",
+          "venue": "Indian Journal of Animal Sciences, 86(2):203-205",
+          "themes": [
+            "silage",
+            "complete feed block",
+            "lactating yaks"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2016,
+          "title": "Performances of growing yaks on different planes of nutrition",
+          "venue": "Indian Journal of Animal Sciences, 86(11):1337-1339",
+          "themes": [
+            "nutrition",
+            "growth",
+            "feeding planes"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2015,
+          "title": "High seroprevalence of bovine herpesvirus-1 and Brucella abortus in yak populations of Arunachal Pradesh, India correlates with abortion",
+          "venue": "Indian Journal of Animal Science, 85(7):751-754",
+          "themes": [
+            "IBR",
+            "brucellosis",
+            "abortion",
+            "animal health"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2015,
+          "title": "A retrospective analysis on yak mortality with special emphasis on neonatal mortality",
+          "venue": "Indian Journal of Animal Science, 85(5):446-450",
+          "themes": [
+            "mortality",
+            "neonatal health",
+            "herd management"
+          ],
+          "source": "https://nrcy.org/research.php"
+        },
+        {
+          "year": 2015,
+          "title": "Vulnerability to climate change among the alpine transhumance pastoralists of Western Arunachal Pradesh, India: A household level assessment",
+          "venue": "Range Management and Agroforestry, 36(1):92-98",
+          "themes": [
+            "transhumance",
+            "climate change",
+            "pastoral livelihoods"
+          ],
+          "source": "https://nrcy.org/research.php"
+        }
+      ],
+      "lead_paper_examples": [
+        {
+          "year": 2017,
+          "title": "Parasitic diarrhoea: a cause of yak calf mortality in Arunachal Pradesh",
+          "themes": [
+            "parasites",
+            "calf mortality"
+          ],
+          "source": "https://nrcy.org/lead.php"
+        },
+        {
+          "year": 2017,
+          "title": "Insights into sperm genomics and Y chromosome for male infertility",
+          "themes": [
+            "sperm genomics",
+            "male infertility"
+          ],
+          "source": "https://nrcy.org/lead.php"
+        },
+        {
+          "year": 2016,
+          "title": "Cryopreservation of semen for ex-situ conservation of Yak",
+          "themes": [
+            "cryopreservation",
+            "genetic conservation"
+          ],
+          "source": "https://nrcy.org/lead.php"
+        },
+        {
+          "year": 2016,
+          "title": "Scientific interventions for improvement of yak husbandry to sustain livelihood of highland pastoral nomads of Indian Himalayas",
+          "themes": [
+            "husbandry",
+            "pastoral livelihoods"
+          ],
+          "source": "https://nrcy.org/lead.php"
+        },
+        {
+          "year": 2016,
+          "title": "Yak genomics and informatics: An Update",
+          "themes": [
+            "genomics",
+            "bioinformatics"
+          ],
+          "source": "https://nrcy.org/lead.php"
+        },
+        {
+          "year": 2016,
+          "title": "Strategies to conserve yak genetic resources in India",
+          "themes": [
+            "genetic conservation"
+          ],
+          "source": "https://nrcy.org/lead.php"
+        },
+        {
+          "year": 2016,
+          "title": "Scopes of seminal plasma proteins as fertility biomarkers in yak",
+          "themes": [
+            "fertility biomarkers",
+            "reproduction"
+          ],
+          "source": "https://nrcy.org/lead.php"
+        }
+      ],
+      "other_publication_examples": [
+        {
+          "year": 2006,
+          "title": "Traditional breeding management of yak (Poephagus grunniens L.) in Arunachal Pradesh",
+          "themes": [
+            "traditional breeding",
+            "husbandry"
+          ],
+          "source": "https://nrcy.org/other.php"
+        },
+        {
+          "year": 2005,
+          "title": "Yak husbandry and its implications for organic farming",
+          "themes": [
+            "husbandry",
+            "organic farming"
+          ],
+          "source": "https://nrcy.org/other.php"
+        },
+        {
+          "year": 2005,
+          "title": "Induction of estrus and superovulation in anestrus yaks (Poephagus grunniens L.)",
+          "themes": [
+            "estrus",
+            "superovulation",
+            "reproduction"
+          ],
+          "source": "https://nrcy.org/other.php"
+        }
+      ],
+      "dissertation_examples": [
+        {
+          "year": 2016,
+          "author": "Lego A",
+          "title": "Induction of oestrus and its effect on conception in acyclic female yaks",
+          "degree": "MVSc",
+          "institution": "Central Agricultural University, Selesih, Mizoram"
+        },
+        {
+          "year": 2016,
+          "author": "Tage Rina",
+          "title": "Evaluation of Acepromazine and Midazolam as preanaesthetics to Ketamine in yak",
+          "degree": "MVSc",
+          "institution": "Central Agricultural University, Selesih, Aizawl, Mizoram"
+        },
+        {
+          "year": 2011,
+          "author": "Hussain M",
+          "title": "Studies on in vitro maturation of oocytes in cattle and yaks",
+          "degree": "MVSc",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2010,
+          "author": "Hazarika D",
+          "title": "Studies on certain physio-chemical characteristics of yak",
+          "degree": "MVSc",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2010,
+          "author": "Morang M",
+          "title": "Growth performance of yak calves under artificial rearing system",
+          "degree": "MVSc",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2008,
+          "author": "Goswami A",
+          "title": "Characterization of bacteria recovered from diarrhoeic and non-diarrhoeic yaks",
+          "degree": "MVSc",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2008,
+          "author": "Kaman MK",
+          "title": "Bacterial flora of respiratory tract of yak",
+          "degree": "MVSc",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2007,
+          "author": "Sengupta DH",
+          "title": "Studies on synchronization of estrus and certain aspects of reproductive parameters of female yak",
+          "degree": "PhD",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2006,
+          "author": "Biju S",
+          "title": "Polymorphism in growth hormone gene and receptors and their association with some performance traits in swamp buffalo and yak",
+          "degree": "MVSc",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2006,
+          "author": "Bimal CB",
+          "title": "Polymorphism in candidate genes and their association with performance traits in cross bred cattle and yak",
+          "degree": "MVSc",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2006,
+          "author": "Saikia PK",
+          "title": "Effect of different levels of dietary protein on the growth and nutrient utilization of yaks",
+          "degree": "MVSc",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2004,
+          "author": "Sarkar M",
+          "title": "Endocrine changes during cyclicity and timing of ovulation during spontaneous and synchronized estrus in yaks",
+          "degree": "PhD",
+          "institution": "National Dairy Research Institute, Karnal"
+        },
+        {
+          "year": 2003,
+          "author": "Khargaria S",
+          "title": "Pharmacokinetic studies of enrofloxacin in yak",
+          "degree": "MVSc",
+          "institution": "Assam Agricultural University, Jorhat, Assam"
+        },
+        {
+          "year": 2003,
+          "author": "Atmaramji NU",
+          "title": "Validation of growth hormone and its profile during different stages of growth in yak",
+          "degree": "MVSc",
+          "institution": "Indira Gandhi Krishi Vishwavidyalaya, Raipur"
+        }
+      ],
+      "ongoing_projects": [
+        {
+          "type": "Institute funded",
+          "title": "Ex-situ conservation of yak germplasm",
+          "pi": "Dr. P. Chakravarty"
+        },
+        {
+          "type": "Institute funded",
+          "title": "Nutrient profiling for the milk of Arunachali Yak",
+          "pi": "M. Hussain, T.P. Singh, Joken Bam"
+        },
+        {
+          "type": "Institute funded",
+          "title": "A study on the factors influencing the pastoral yak rearing system in North-east India",
+          "pi": "Dr. K. Mepfhuo"
+        },
+        {
+          "type": "Institute funded",
+          "title": "Maize based feeding module in poultry for alternate source of income in tribal yak farmers of Arunachal Pradesh",
+          "pi": "Dr. D. Medhi"
+        },
+        {
+          "type": "Institute funded",
+          "title": "Effect of parasitic load on growth of young yak calves",
+          "pi": "Dr. M. Hussain"
+        },
+        {
+          "type": "Institute funded",
+          "title": "Identification of Mitogenomic Diversity and Phylogenetic Analysis of Indian Yaks",
+          "pi": "Dr. M. Pukhrambam"
+        },
+        {
+          "type": "Institute funded",
+          "title": "Deciphering the genomic architecture of complex economic traits in Arunachali Yak",
+          "pi": "Dr. Aneet Kour"
+        },
+        {
+          "type": "Externally funded",
+          "title": "AICRP on Foot and Mouth Disease (FMD)",
+          "pi": "Dr. M. Hussain"
+        },
+        {
+          "type": "Externally funded",
+          "title": "AICRP on Plasticulture Engineering and Technology (Application of Plastic in Yak Husbandry)",
+          "pi": "Dr. V. Paul"
+        },
+        {
+          "type": "Externally funded",
+          "title": "Maize production in NEH region for sustainable livestock production",
+          "pi": "D. Medhi"
+        }
+      ],
+      "completed_project_themes": [
+        "immunological and molecular markers",
+        "female reproductive physiology",
+        "nutrition",
+        "soil/plant/yak elemental profiling",
+        "food and nutritional security",
+        "pack-animal efficiency",
+        "production and health surveys",
+        "tree fodder evaluation",
+        "disease surveys and health coverage",
+        "genetic divergence",
+        "feeding behaviour and growth",
+        "endocrine changes and ovulation",
+        "helminth epidemiology and immunodiagnosis",
+        "yak rearing package of practices",
+        "yak hybrid farming",
+        "PCR-RFLP and RAPD molecular characterisation",
+        "dairy products from yak milk",
+        "embryo transfer",
+        "ethnopharmacology of medicinal plants used by yak rearers",
+        "estrus induction and superovulation",
+        "embryo recovery",
+        "anti-prolactin treatment",
+        "animal genetic resources",
+        "thermo-adaptability of yaks and hybrids",
+        "socio-economic appraisal",
+        "drug pharmacokinetics",
+        "FMD vaccine immune response",
+        "endocrine status during growth",
+        "economic-trait markers",
+        "environmental stress",
+        "heat shock protein characterization",
+        "vitamin A profiling",
+        "yak semen quality and freezability"
+      ],
+      "major_research_achievements_context": {
+        "genetics": [
+          "NRCY reports association of 3-prime UTR Nramp1 polymorphism with brucellosis resistance in yak.",
+          "A PCR plus agarose-gel method was developed for Nramp1 genotyping.",
+          "TLR2 and TLR6 polymorphisms were characterised in yak.",
+          "A PCR-RFLP assay using SRY-related variation was developed to identify paternal origin in yak hybrids.",
+          "RAPD fingerprinting was developed for parentage/species-hybrid detection and differentiation among bovine species.",
+          "Growth hormone, growth hormone receptor and IGF-1 candidate-gene polymorphisms were studied; NRCY reports an association of IGF-1 polymorphism with birth weight."
+        ],
+        "nutrition": [
+          "NRCY reports complete feed blocks using maize stover, concentrate and molasses as a winter-feed intervention.",
+          "The centre reports mineral supplementation experiments affecting puberty, body weight and reproductive efficiency; Curly should treat the reported historical values as study-specific, not universal yak benchmarks."
+        ],
+        "reproductive_biotechnology": [
+          "NRCY annual reports document development of embryo and semen technologies, including IVF, embryo transfer and semen cryopreservation milestones.",
+          "The 2026 field FTAI demonstration in Sikkim involved 25 female yaks, 14 conceptions, a reported 56% conception rate and 10 healthy calves born on 29–30 June 2026."
+        ]
+      },
+      "source_urls": {
+        "home": "https://nrcy.org/",
+        "research_articles": "https://nrcy.org/research.php",
+        "lead_papers": "https://nrcy.org/lead.php",
+        "other_publications": "https://nrcy.org/other.php",
+        "dissertations": "https://nrcy.org/dissertationa.php",
+        "ongoing_projects": "https://nrcy.org/ongoingprojects.php",
+        "completed_projects": "https://nrcy.org/completedprojects.php",
+        "major_achievements": "https://nrcy.org/majorachievements.php",
+        "ftai_2026": "https://icar.gov.in/en/icar-nrc-yak-dirang-successfully-demonstrates-fixed-time-artificial-insemination-yaks-under-field",
+        "ai_iot_2026": "https://icar.gov.in/en/icar-nrc-yak-and-assam-don-bosco-university-scientists-develops-iot-based-smart-health-monitoring",
+        "transcriptome_2026": "https://pubmed.ncbi.nlm.nih.gov/42313193/"
+      }
+    },
+    "contact_reconciliation": {
+      "project_supplied_previous_director_email": "director.nrcy@icar.gov.in",
+      "latest_official_icar_directory_2026": {
+        "current_director": "Dr. Mihir Sarkar",
+        "emails": [
+          "mihir.sarkar@icar.org.in",
+          "director-nrcy@icar.org.in"
+        ],
+        "office_numbers": [
+          "03780-242259",
+          "03780-242273"
+        ],
+        "mobile_numbers": [
+          "03780-242205",
+          "6398414008",
+          "9756905650"
+        ],
+        "source": "ICAR Telephone Directory 2026",
+        "source_url": "https://www.icar.gov.in/sites/default/files/2026-04/ICAR-Telephone-Directory-2026-1.pdf",
+        "verified_on": "2026-09-19"
+      },
+      "usage_rule": "For current director contact queries, prefer the latest official ICAR 2026 directory block above; retain the older project-supplied email only as historical/source provenance."
+    },
+    "current_director_source": {
+      "source_type": "official_icAR_telephone_directory",
+      "document": "ICAR Telephone Directory 2026",
+      "verified_on": "2026-09-19",
+      "source_url": "https://www.icar.gov.in/sites/default/files/2026-04/ICAR-Telephone-Directory-2026-1.pdf"
+    }
+  },
+  "lab": {
+    "name": "ICAR-NRCY Centre of Excellence, ADBU",
+    "in_charge": "Dr. Rupesh Mandal",
+    "nodal_officer": "Dr. Rupesh Mandal",
+    "location": "ADBU",
+    "opening_time": "9 AM",
+    "closing_time": "5 PM",
+    "working_days": "Monday to Saturday",
+    "contact": "Dr. Rupesh Mandal",
+    "email": null,
+    "email_note": "The previously supplied value was a placeholder and is not a verified institutional email address."
+  },
+  "experimental_farm": {
+    "name": "NRCY Experimental Yak Farm",
+    "location": "Nyukmadung",
+    "distance_from_dirang_km": 31,
+    "elevation_m": 2750,
+    "note": "Do not confuse the experimental yak farm at Nyukmadung with the NRCY headquarters at Dirang."
+  },
+  "response_rules": {
+    "institutional_facts_source": "Use supplied institutional knowledge only.",
+    "current_information": "Administrative, contact, project and personnel facts are time-sensitive.",
+    "current_director_rule": "Treat Dr. Mihir Sarkar as current Director unless a newer authoritative ICAR source supersedes the 2026 directory.",
+    "no_hallucination": true,
+    "unknown_information_response": "I don't have that information yet.",
+    "ambiguous_question": "Ask a concise clarification rather than guessing.",
+    "voice_style": "Natural, concise, conversational English.",
+    "ai_ambiguity": "AI may mean Artificial Intelligence or Artificial Insemination; infer from context.",
+    "source_priority": [
+      "Latest official ICAR publication or announcement",
+      "Latest ICAR Telephone Directory",
+      "Official ICAR–NRCY information",
+      "Official Government of India sources",
+      "Other authoritative institutional sources",
+      "Secondary sources only when authoritative sources are unavailable"
+    ],
+    "research_context_rule": "Use organization.research_publication_context for publication, dissertation, project, achievement and research-theme questions.",
+    "publication_caution": "Do not claim every entry on the NRCY Research Articles page is yak-specific; some are broader animal-science publications.",
+    "research_answer_rule": "For a paper query, prefer title + year + venue + topic, and do not invent findings beyond verified metadata or abstract-level evidence.",
+    "current_research_rule": "For latest/current research questions, verify against current ICAR announcements and academic indexes when live retrieval is available.",
+    "person_resolution_rule": "Known institutional people and designated roles must be resolved deterministically from person_resolution before LLM fallback.",
+    "known_person_answer_rule": "When a question resolves to a known person, use the stored canonical answer/role and do not delegate the identity or designation to the LLM."
+  },
+  "faq": [
+    {
+      "question": "What is NRCY?",
+      "answer": "NRCY stands for ICAR–National Research Centre on Yak. It is a specialised ICAR research institute focused on yak research, conservation, breeding, health, nutrition, production and value addition."
+    },
+    {
+    "question": "Who developed Curly?",
+    "answer": "Curly was developed by the Assam Don Bosco University technical team in collaboration with ICAR–National Research Centre on Yak."
+    },
+    {
+      "question": "Where is NRCY located?",
+      "answer": "NRCY is located in Dirang, West Kameng district, Arunachal Pradesh, India."
+    },
+    {
+      "question": "Who is the Director of NRCY?",
+      "answer": "Dr. Mihir Sarkar is the current Director of ICAR–National Research Centre on Yak."
+    },
+    {
+      "question": "Is NRCY part of ICAR?",
+      "answer": "Yes. ICAR–NRCY is a specialised research institute under the Indian Council of Agricultural Research."
+    },
+    {
+      "question": "Is NRCY a university?",
+      "answer": "No. NRCY is a research institute under ICAR."
+    },
+    {
+      "question": "Where is the NRCY yak farm?",
+      "answer": "NRCY has an experimental yak farm at Nyukmadung, approximately 31 kilometres from Dirang, at around 2,750 metres above mean sea level."
+    },
+    {
+      "question": "What does NRCY research?",
+      "answer": "NRCY researches yak genetics, breeding, nutrition, health, reproduction, production, conservation, fibre, milk and other yak products."
+    },
+    {
+      "question": "What is NRCY's recent AI project?",
+      "answer": "NRCY and Assam Don Bosco University developed an IoT-based smart system for yak health monitoring, stress prediction and geo-fencing."
+    },
+    {
+      "question": "What is the recent breeding achievement of NRCY?",
+      "answer": "In 2026, NRCY demonstrated estrus synchronisation and Fixed-Time Artificial Insemination in yaks under field conditions in Sikkim."
+    },
+    {
+      "question": "Does NRCY work outside Arunachal Pradesh?",
+      "answer": "Yes. NRCY conducts research, extension and technology-transfer activities in other Himalayan yak-rearing regions, including Sikkim and Ladakh."
+    },
+    {
+      "question": "What is yak churpi?",
+      "answer": "Yak churpi is a traditional product made from yak milk. Arunachal Pradesh Yak Churpi has GI recognition, and NRCY has contributed to its promotion and value addition."
+    },
+    {
+      "question": "Who is Dr. Mihir Sarkar?",
+      "answer": "Dr. Mihir Sarkar is the Director of ICAR–National Research Centre on Yak."
+    },
+    {
+      "question": "What is Dr. Mihir Sarkar's role?",
+      "answer": "Dr. Mihir Sarkar is the Director of ICAR–National Research Centre on Yak."
+    },
+    {
+      "question": "Who is Dr. Rupesh Mandal?",
+      "answer": "Dr. Rupesh Mandal is an Assistant Professor at Assam Don Bosco University and is listed as the nodal officer and in-charge of the ICAR-NRCY Centre of Excellence at ADBU in the supplied lab dataset."
+    },
+    {
+      "question": "What does Dr. Rupesh Mandal do?",
+      "answer": "Dr. Rupesh Mandal is an Assistant Professor at Assam Don Bosco University and is listed as the nodal officer and in-charge of the ICAR-NRCY Centre of Excellence at ADBU in the supplied lab dataset."
+    }
+  ],
+  "source_reconciliation": {
+    "purpose": "Reconciles the two supplied Curly knowledge sources without silently discarding source content.",
+    "source_files": [
+      {
+        "name": "Pasted text(6).txt",
+        "role": "Earlier/primary institutional and lab contact dataset supplied for Curly."
+      },
+      {
+        "name": "Pasted code (2).json",
+        "role": "Updated research-aware institutional context and revised response rules. The attachment begins as a continuation of a JSON object."
+      }
+    ],
+    "lab_conflict": {
+      "file_1": {
+        "name": "ICAR-NRCY Centre of Excellence, ADBU",
+        "in_charge": "Dr. Rupesh Mandal",
+        "nodal_officer": "Dr. Rupesh Mandal",
+        "location": "ADBU",
+        "opening_time": "9 AM",
+        "closing_time": "5 PM",
+        "working_days": "Monday to Saturday",
+        "contact": "Dr. Rupesh Mandal",
+        "email": "xxx@uni.ac.in"
+      },
+      "file_2": {
+        "name": null,
+        "opening_time": null,
+        "closing_time": null,
+        "incharge": null,
+        "department": null,
+        "location": null,
+        "purpose": null,
+        "facilities": [],
+        "note": "The supplied ICAR–NRCY context does not specify laboratory opening/closing hours, a laboratory in-charge, or a named institutional lab. Do not invent these details. It does specify an experimental yak farm at Nyukmadung."
+      },
+      "resolution": "Retain the supplied lab contact details from file 1 because file 2 explicitly states that its supplied ICAR-NRCY context does not specify laboratory details; null/unspecified values in file 2 are not treated as a contradiction or deletion.",
+      "answering_rule": "Use the populated lab fields when a user asks about the ICAR-NRCY Centre of Excellence, ADBU lab; do not invent additional lab details."
+    },
+    "response_rules_union": {
+      "file_1_rules": {
+        "institutional_facts_source": "Use supplied institutional knowledge only.",
+        "current_information": "Administrative, contact, project and personnel facts are time-sensitive.",
+        "current_director_rule": "Treat Dr. Mihir Sarkar as current Director unless a newer authoritative ICAR source supersedes the 2026 directory.",
+        "no_hallucination": true,
+        "unknown_information_response": "I don't have that information yet.",
+        "ambiguous_question": "Ask a concise clarification rather than guessing.",
+        "voice_style": "Natural, concise, conversational English.",
+        "ai_ambiguity": "AI may mean Artificial Intelligence or Artificial Insemination; infer from context.",
+        "source_priority": [
+          "Latest official ICAR publication or announcement",
+          "Latest ICAR Telephone Directory",
+          "Official ICAR–NRCY information",
+          "Official Government of India sources",
+          "Other authoritative institutional sources",
+          "Secondary sources only when authoritative sources are unavailable"
+        ]
+      },
+      "file_2_rules": {
+        "institutional_facts_source": "Use supplied institutional knowledge only.",
+        "current_information": "Administrative, contact, project and personnel facts are time-sensitive.",
+        "current_director_rule": "Treat Dr. Mihir Sarkar as current Director unless a newer authoritative ICAR source supersedes the 2026 directory.",
+        "no_hallucination": true,
+        "unknown_information_response": "I don't have that information yet.",
+        "ambiguous_question": "Ask a concise clarification rather than guessing.",
+        "voice_style": "Natural, concise, conversational English.",
+        "ai_ambiguity": "AI may mean Artificial Intelligence or Artificial Insemination; infer from context.",
+        "source_priority": [
+          "Latest official ICAR publication or announcement",
+          "Latest ICAR Telephone Directory",
+          "Official ICAR–NRCY information",
+          "Official Government of India sources",
+          "Other authoritative institutional sources",
+          "Secondary sources only when authoritative sources are unavailable"
+        ],
+        "research_context_rule": "Use organization.research_publication_context for publication, dissertation, project, achievement and research-theme questions.",
+        "publication_caution": "Do not claim every entry on the NRCY Research Articles page is yak-specific; some are broader animal-science publications.",
+        "research_answer_rule": "For a paper query, prefer title + year + venue + topic, and do not invent findings beyond verified metadata or abstract-level evidence.",
+        "current_research_rule": "For latest/current research questions, verify against current ICAR announcements and academic indexes when live retrieval is available."
+      }
+    },
+    "second_file_root_content": {
+      "experimental_farm": {
+        "name": "NRCY Experimental Yak Farm",
+        "location": "Nyukmadung",
+        "distance_from_dirang_km": 31,
+        "elevation_m": 2750,
+        "note": "Do not confuse the experimental yak farm at Nyukmadung with the NRCY headquarters at Dirang."
+      },
+      "faq": [
+        {
+          "question": "What is NRCY?",
+          "answer": "NRCY stands for ICAR–National Research Centre on Yak. It is a specialised ICAR research institute focused on yak research, conservation, breeding, health, nutrition, production and value addition."
+        },
+        {
+          "question": "Where is NRCY located?",
+          "answer": "NRCY is located in Dirang, West Kameng district, Arunachal Pradesh, India."
+        },
+        {
+          "question": "Who is the Director of NRCY?",
+          "answer": "Dr. Mihir Sarkar is the current Director of ICAR–National Research Centre on Yak."
+        },
+        {
+          "question": "Is NRCY part of ICAR?",
+          "answer": "Yes. ICAR–NRCY is a specialised research institute under the Indian Council of Agricultural Research."
+        },
+        {
+          "question": "Is NRCY a university?",
+          "answer": "No. NRCY is a research institute under ICAR."
+        },
+        {
+          "question": "Where is the NRCY yak farm?",
+          "answer": "NRCY has an experimental yak farm at Nyukmadung, approximately 31 kilometres from Dirang, at around 2,750 metres above mean sea level."
+        },
+        {
+          "question": "What does NRCY research?",
+          "answer": "NRCY researches yak genetics, breeding, nutrition, health, reproduction, production, conservation, fibre, milk and other yak products."
+        },
+        {
+          "question": "What is NRCY's recent AI project?",
+          "answer": "NRCY and Assam Don Bosco University developed an IoT-based smart system for yak health monitoring, stress prediction and geo-fencing."
+        },
+        {
+          "question": "What is the recent breeding achievement of NRCY?",
+          "answer": "In 2026, NRCY demonstrated estrus synchronisation and Fixed-Time Artificial Insemination in yaks under field conditions in Sikkim."
+        },
+        {
+          "question": "Does NRCY work outside Arunachal Pradesh?",
+          "answer": "Yes. NRCY conducts research, extension and technology-transfer activities in other Himalayan yak-rearing regions, including Sikkim and Ladakh."
+        },
+        {
+          "question": "What is yak churpi?",
+          "answer": "Yak churpi is a traditional product made from yak milk. Arunachal Pradesh Yak Churpi has GI recognition, and NRCY has contributed to its promotion and value addition."
+        }
+      ]
+    }
+  },
+  "person_resolution": {
+    "enabled": true,
+    "resolution_order": [
+      "exact canonical name match",
+      "specific name alias match",
+      "specific role/designation match",
+      "LLM fallback only when no known person/entity is resolved"
+    ],
+    "known_people": {
+      "director": {
+        "canonical_name": "Dr. Mihir Sarkar",
+        "aliases": [
+          "Mihir Sarkar",
+          "Dr Mihir Sarkar",
+          "Mihir Sircar",
+          "Mihir Sarker",
+          "Dr Mehir Sarkar"
+        ],
+        "role_phrases": [
+          "director",
+          "current director",
+          "director of nrcy",
+          "director of the national research centre on yak",
+          "head of nrcy"
+        ],
+        "answer": "Dr. Mihir Sarkar is the Director of ICAR–National Research Centre on Yak."
+      },
+      "nodal_officer": {
+        "canonical_name": "Dr. Rupesh Mandal",
+        "aliases": [
+          "Rupesh Mandal",
+          "Dr Rupesh Mandal"
+        ],
+        "role_phrases": [
+          "nodal officer",
+          "nrcy centre of excellence nodal officer",
+          "nodal officer of the lab",
+          "centre of excellence nodal officer"
+        ],
+        "answer": "Dr. Rupesh Mandal is the nodal officer of the ICAR-NRCY Centre of Excellence at ADBU."
+      },
+      "lab_in_charge": {
+        "canonical_name": "Dr. Rupesh Mandal",
+        "aliases": [
+          "Rupesh Mandal",
+          "Dr Rupesh Mandal"
+        ],
+        "role_phrases": [
+          "in charge of the lab",
+          "lab in charge",
+          "in-charge of the lab",
+          "who manages the lab"
+        ],
+        "answer": "Dr. Rupesh Mandal is listed as the in-charge of the ICAR-NRCY Centre of Excellence at ADBU."
+      },
+      "mokhtar_hussain": {
+        "canonical_name": "Dr. Mokhtar Hussain",
+        "aliases": [
+          "Dr Mokhtar Hussain",
+          "Mokhtar Hussain",
+          "Dr. Moukhtar Hussain",
+          "Dr Moukhtar Hussain",
+          "Moukhtar Hussain"
+        ],
+        "role_phrases": [
+          "senior scientist (ar&g)",
+          "role",
+          "designation"
+        ],
+        "answer": "Dr. Mokhtar Hussain is Senior Scientist (AR&G) at ICAR–National Research Centre on Yak."
+      },
+      "vijay_paul": {
+        "canonical_name": "Dr. Vijay Paul",
+        "aliases": [
+          "Dr Vijay Paul",
+          "Vijay Paul",
+          "Vijay Pal",
+          "Bijay Paul"
+        ],
+        "role_phrases": [
+          "principal scientist (vpy)",
+          "role",
+          "designation"
+        ],
+        "answer": "Dr. Vijay Paul is Principal Scientist (VPY) at ICAR–National Research Centre on Yak."
+      },
+      "dinamani_medhi": {
+        "canonical_name": "Dr. Dinamani Medhi",
+        "aliases": [
+          "Dr Dinamani Medhi",
+          "Dinamani Medhi",
+          "Dinamani Medhee",
+          "Dinamani Madhi",
+          "Dinamani Medi"
+        ],
+        "role_phrases": [
+          "principal scientist (an)",
+          "role",
+          "designation"
+        ],
+        "answer": "Dr. Dinamani Medhi is Principal Scientist (AN) at ICAR–National Research Centre on Yak."
+      },
+      "nupur_choudhury": {
+        "canonical_name": "Dr. Nupur Choudhury",
+        "aliases": [
+          "Dr Nupur Choudhury",
+          "Nupur Choudhury",
+          "Nupur Chowdhury",
+          "Nupur Chaudhury",
+          "Nupur Choudhri",
+          "Nupur Choudhuri"
+        ],
+        "role_phrases": [
+          "assistant professor",
+          "role",
+          "designation"
+        ],
+        "answer": "Dr. Nupur Choudhury is Assistant Professor at Assam Don Bosco University."
+      },
+      "gitu_das": {
+        "canonical_name": "Dr. Gitu Das",
+        "aliases": [
+          "Dr Gitu Das",
+          "Gitu Das",
+          "Gitu Dass"
+        ],
+        "role_phrases": [
+          "assistant professor",
+          "role",
+          "designation"
+        ],
+        "answer": "Dr. Gitu Das is Assistant Professor at Assam Don Bosco University."
+      },
+      "jyoti_kumar_barman": {
+        "canonical_name": "Dr. Jyoti Kumar Barman",
+        "aliases": [
+          "Dr Jyoti Kumar Barman",
+          "Jyoti Kumar Barman",
+          "Jyoti Barman",
+          "Jyoti Kumar Burman",
+          "Jyoti Barman Sir"
+        ],
+        "role_phrases": [
+          "assistant professor",
+          "role",
+          "designation"
+        ],
+        "answer": "Dr. Jyoti Kumar Barman is Assistant Professor at Assam Don Bosco University."
+      }
+    },
+    "known_person_question_templates": {
+      "Dr. Mihir Sarkar": [
+        "Who is Dr. Mihir Sarkar?",
+        "What is Dr. Mihir Sarkar's role?",
+        "What does Dr. Mihir Sarkar do?",
+        "Tell me about Dr. Mihir Sarkar.",
+        "Who is Dr. Mehir Sarkar?"
+      ],
+      "Dr. Rupesh Mandal": [
+        "Who is Dr. Rupesh Mandal?",
+        "What does Dr. Rupesh Mandal do?",
+        "What is Dr. Rupesh Mandal's role?",
+        "Tell me about Dr. Rupesh Mandal."
+      ]
+    },
+    "anti_hallucination_rules": [
+      "Never ask the LLM to determine the current Director when the canonical director entity is already resolved.",
+      "Never identify Dr. Rupesh Mandal as Director of NRCY.",
+      "Never identify Dr. Mihir Sarkar as the ADBU lab nodal officer.",
+      "When a known person is resolved, answer from the deterministic knowledge record.",
+      "If a person is not in the knowledge record and the question is institutional, do not invent a designation."
+    ]
+  },
+  "dataset_version": "2026-09-21-nrcy-rich"
+}

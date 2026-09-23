@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+.venv_qwen_tts/
+.venv*/
+.DS_Store
+.vscode/
+*.mp3
+models/
